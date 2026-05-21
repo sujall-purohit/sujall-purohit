@@ -42,11 +42,12 @@ Interactive streaming interface with modern design and React component architect
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 LeetCode Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" height="170" />
+  <a href="https://leetcode.com/u/sujall_purohit/">
+    <img src="https://leetcard.jacoblin.cool/sujall_purohit?theme=dark&font=Poppins&ext=contest" />
+  </a>
 </p>
 
 ---
@@ -57,7 +58,7 @@ Interactive streaming interface with modern design and React component architect
   <a href="https://github.com/yourusername">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://www.linkedin.com/in/sujal-purohit-aa53ba275/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>

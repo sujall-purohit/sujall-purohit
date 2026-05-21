@@ -1,156 +1,75 @@
-# Hi 👋, I'm Sujal Purohit
+<h1 align="center">Hey 👋, I'm Sujal Purohit</h1>
+<h3 align="center">Frontend Developer • React Learner • DSA Enthusiast</h3>
 
-### Frontend Developer | React Enthusiast | DSA Learner
-
-I’m passionate about building modern web applications and improving my problem-solving skills through Data Structures & Algorithms.
-Currently exploring React, JavaScript, C++, and full-stack development.
-
----
-
-## 🚀 About Me
-
-* 🌱 Currently learning **React, DSA, and Backend Development**
-* 💻 Building projects from **basic to advanced level**
-* 📚 Practicing coding problems regularly
-* ⚡ Interested in UI/UX and clean web design
-* 🎯 Goal: Become a skilled full-stack developer
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-* JavaScript
-* C++
-* HTML5
-* CSS3
-
-### Frameworks & Libraries
-
-* React.js
-* Tailwind CSS
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* VS Code
-* Vercel
-* Netlify
-
----
-
-## 📂 Featured Projects
-
-### 🔹 JavaScript Projects Collection
-
-A collection of beginner to advanced JavaScript projects built while learning core concepts.
-
-### 🔹 React Portfolio Website
-
-Personal portfolio built with React showcasing projects, skills, and contact information.
-
-### 🔹 Live Streaming UI Project
-
-Modern React-based streaming interface with responsive design and reusable components.
-
----
-
-## 📈 GitHub Stats
-
-```txt
-⭐ Consistency > Perfection
-```
-
----
-
-## 🌐 Connect With Me
-
-* GitHub: [https://github.com/yourusername](https://github.com/sujall-purohit)
-* LinkedIn: [https://linkedin.com/in/yourusername](# Hi 👋, I'm Sujal Purohit
-
-### Frontend Developer | React Enthusiast | DSA Learner
-
-I’m passionate about building modern web applications and improving my problem-solving skills through Data Structures & Algorithms.
-Currently exploring React, JavaScript, C++, and full-stack development.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Enthusiast;DSA+Learner;Building+Projects+Everyday" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-* 🌱 Currently learning **React, DSA, and Backend Development**
-* 💻 Building projects from **basic to advanced level**
-* 📚 Practicing coding problems regularly
-* ⚡ Interested in UI/UX and clean web design
-* 🎯 Goal: Become a skilled full-stack developer
+```yaml
+Name: Sujal Purohit
+Focus: Frontend Development
+Currently Learning: React + DSA + Backend
+Goal: Become a Full Stack Developer
+Passion: Building Modern Web Applications
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+<div align="center">
 
-* JavaScript
-* C++
-* HTML5
-* CSS3
+<img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,git,github,vscode,tailwind" />
 
-### Frameworks & Libraries
-
-* React.js
-* Tailwind CSS
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* VS Code
-* Vercel
-* Netlify
+</div>
 
 ---
 
-## 📂 Featured Projects
+## 📌 Featured Projects
 
-### 🔹 JavaScript Projects Collection
+✨ **JavaScript Projects Collection**
+A collection of beginner to advanced JavaScript projects focused on logic building and DOM manipulation.
 
-A collection of beginner to advanced JavaScript projects built while learning core concepts.
+✨ **React Portfolio Website**
+Modern portfolio website built using React with responsive UI and reusable components.
 
-### 🔹 React Portfolio Website
-
-Personal portfolio built with React showcasing projects, skills, and contact information.
-
-### 🔹 Live Streaming UI Project
-
-Modern React-based streaming interface with responsive design and reusable components.
+✨ **Live Streaming UI Project**
+Interactive streaming interface with modern design and React component architecture.
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-```txt
-⭐ Consistency > Perfection
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" height="170" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-* GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-* LinkedIn: [https://linkedin.com/in/yourusername](https://www.linkedin.com/in/sujal-purohit-aa53ba275/)
-* Portfolio: [https://yourportfolio.com]
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## ✨ Fun Fact
+## ✨ Quote
 
-I enjoy turning ideas into interactive web experiences and continuously learning new technologies.
-)
-* Portfolio: [https://yourportfolio.com]
+> "Consistency beats motivation." 🚀
 
 ---
 
-## ✨ Fun Fact
-
-I enjoy turning ideas into interactive web experiences and continuously learning new technologies.
+<p align="center">
+  Thanks for visiting my profile ⭐
+</p>

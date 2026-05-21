@@ -1,76 +1,75 @@
-<h1 align="center">Hey 👋, I'm Sujal Purohit</h1>
-<h3 align="center">Frontend Developer • React Learner • DSA Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Sujal Purohit</h1>
+<h3 align="center">Frontend Developer • React Learner • PHP & WordPress Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Enthusiast;DSA+Learner;Building+Projects+Everyday" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Learner;PHP+%26+WordPress+Developer;Building+Modern+Web+Applications" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-```yaml
-Name: Sujal Purohit
-Focus: Frontend Development
-Currently Learning: React + DSA + Backend
-Goal: Become a Full Stack Developer
-Passion: Building Modern Web Applications
-```
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,git,github,vscode,tailwind" />
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-✨ **JavaScript Projects Collection**
-A collection of beginner to advanced JavaScript projects focused on logic building and DOM manipulation.
-
-✨ **React Portfolio Website**
-Modern portfolio website built using React with responsive UI and reusable components.
-
-✨ **Live Streaming UI Project**
-Interactive streaming interface with modern design and React component architecture.
-
----
-
-## 🧠 LeetCode Journey
-
-<p align="center">
-  <a href="https://leetcode.com/u/sujall_purohit/">
-    <img src="https://leetcard.jacoblin.cool/sujall_purohit?theme=dark&font=Poppins&ext=contest" />
-  </a>
-</p>
+- 🌱 Currently learning **React**
+- 💻 Building responsive and modern web applications
+- ⚡ Skilled in **PHP & WordPress Development**
+- 🎨 Passionate about clean UI/UX design
+- 📚 Practicing DSA and improving problem-solving skills
+- 🎯 Goal: Become a professional Full Stack Developer
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sujal-purohit-aa53ba275/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<p align="left">
+
+<a href="https://github.com/sujall-purohit" target="blank">
+<img src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/sujal-purohit-aa53ba275/" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="https://leetcode.com/u/sujall_purohit/" target="blank">
+<img src="https://cdn.simpleicons.org/leetcode" height="40" />
+</a>
+
 </p>
 
 ---
 
-## ✨ Quote
+## 💻 Tech Stack
 
-> "Consistency beats motivation." 🚀
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,php,wordpress,bootstrap,tailwind,mysql,git,github,vscode" />
+</p>
 
 ---
 
-<p align="center">
-  Thanks for visiting my profile ⭐
-</p>
+## 🚀 Featured Projects
+
+### 🌦 Weather App
+Responsive weather application with API integration and modern UI.
+
+### 🎥 Video Meeting App
+React-based frontend project with modern user interface.
+
+### 🏨 Hotel Management System
+PHP & MySQL based hotel booking and management system.
+
+### 💼 Portfolio Website
+Personal portfolio showcasing projects, skills, and experience.
+
+---
+
+## ✨ Current Focus
+
+- React Development
+- Frontend Projects
+- PHP & WordPress Development
+- DSA Practice
+- Modern UI Design
+
+---
+
+<h3 align="center">⭐ Building • Learning • Growing ⭐</h3>

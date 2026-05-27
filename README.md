@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sujal Purohit
+# SUJAL PUROHIT
 
 ### Frontend Developer • React Learner • PHP & WordPress Developer
 

@@ -58,7 +58,7 @@ problem-solving and full stack development skills.
 
 ### Backend & Database
 
-<img src="https://skillicons.dev/icons?i=php,mysql,wordpress,c++&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,mysql,wordpress,cc&theme=dark" />
 
 <br/><br/>
 

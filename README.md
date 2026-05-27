@@ -78,10 +78,9 @@ problem-solving and full stack development skills.
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sujall-purohit&show_icons=true&theme=tokyonight&border_radius=12" height="180em"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujall-purohit&layout=compact&theme=tokyonight&border_radius=12" height="180em"/>
-
+<a href="https://www.geeksforgeeks.org/profile/purohitsu9vah/">
+  <img src="https://gfgstatscard.vercel.app/purohitsu9vah?theme=dark" />
+</a>
 </div>
 
 ---
